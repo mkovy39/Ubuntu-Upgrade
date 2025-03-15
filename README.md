@@ -3,3 +3,8 @@
 
 ## Overview
 This document provides step-by-step instructions for upgrading Ubuntu **20.04 LTS** to **24.04 LTS** using `update-manager-core` and the **manual process**. These methods ensure a safe and reliable upgrade to the latest stable version.
+
+## Prerequisites
+- **Backup your data** before proceeding.
+- Ensure you have **sudo** privileges.
+- If upgrading a remote server, use `screen` or `tmux` to prevent disconnection issues.
